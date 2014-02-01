@@ -137,7 +137,7 @@ YAK:
 		Cost: 1000
 	Tooltip:
 		Name: Yak Attack Plane
-		Description: Anti-Tanks & Anti-Infantry Plane.\n  Strong vs Infantry, Tanks\n  Weak vs Buildings
+		Description: Scout & Anti-Infantry Plane.\n  Strong vs Infantry\n  Weak vs Buildings
 	Health:
 		HP: 60
 	Armor:
